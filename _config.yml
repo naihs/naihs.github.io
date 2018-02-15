@@ -6,7 +6,7 @@ email: naihs.work@gmail.com
 description: ""
 keyword: ""
 #url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/years"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
